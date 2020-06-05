@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "next": "9.4.2",
+    "next-connect": "^0.7.0",
+    "passport": "^0.4.1",
+    "passport-steam": "^1.0.14",
     "react": "16.13.1",
     "react-dom": "16.13.1"
   }
